@@ -4,7 +4,7 @@ Easily use [Skycons](https://github.com/darkskyapp/skycons) in your VueJs apps. 
 ## Installation   
 ### NPM   
 ```
-npm install --save vue-skycon
+npm i vue-skycon
 ```
 
 ### YARN   
