@@ -16,8 +16,7 @@ export default {
             default: 64
         },
         condition: {
-            type: String,
-            default: 'clear-day'
+            type: String
         },
         color: {
             type: String,
@@ -37,7 +36,9 @@ export default {
         create() {
             // initialize skycons
             this.destroy();
-            this.skycons = new Skycons({color: this.color});
+            this.skycons = new Skycons({
+                color: this.color
+            });
             this.skycons.play();
         },
         destroy() {
