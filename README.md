@@ -1,5 +1,5 @@
 # Vue Skycons
-Easily use [Skycons](https://github.com/darkskyapp/skycons) in your VueJs apps.
+Easily use [Skycons](https://github.com/darkskyapp/skycons) in your VueJs apps. Example use [WeatherTab](https://timleland.com/weathertab/)
 
 ## Installation   
 ### NPM   
