@@ -60,7 +60,6 @@ Vue.use(VueSkycons)
 
   // Weather condition
   condition: {
-    type: String,
-    default: 'clear-day'
+    type: String
   }
 ```
