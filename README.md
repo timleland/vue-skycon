@@ -4,18 +4,18 @@ Easily use [Skycons](https://github.com/darkskyapp/skycons) in your VueJs apps.
 ## Installation   
 ### NPM   
 ```
-npm install --save vue-sky-cons
+npm install --save vue-skycon
 ```
 
 ### YARN   
 ```
-yarn add vue2-sky-cons
+yarn add vue-skycon
 ```
 
 ## Installation
 ```
 import Vue from 'vue'
-import VueSkycons from 'vue-sky-cons'
+import VueSkycons from 'vue-skycon'
 
 Vue.use(VueSkycons)
 
