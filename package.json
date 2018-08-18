@@ -1,0 +1,23 @@
+{
+  "name": "vue-skycons",
+  "version": "1.0.0",
+  "description": "Skycons weather icons in VueJS",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/timleland/vue-skycons.git"
+  },
+  "keywords": [
+    "skycons",
+    "weather",
+    "vue",
+    "icons",
+    "animated"
+  ],
+  "author": "Tim Leland",
+  "license": "Apache v2.0",
+  "bugs": {
+    "url": "https://github.com/timleland/vue-skycons/issues"
+  },
+  "homepage": "https://github.com/timleland/vue-skycons#readme"
+}
