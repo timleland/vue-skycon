@@ -8,11 +8,11 @@ import Skycons from './skycons';
 export default {
     props: {
         width: {
-            type: Number,
+            type: [String, Number],
             default: 64
         },
         height: {
-            type: Number,
+            type: [String, Number],
             default: 64
         },
         condition: {
