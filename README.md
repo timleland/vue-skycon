@@ -1,5 +1,7 @@
 # Vue Skycons
-Easily use [Skycons](https://github.com/darkskyapp/skycons) in your VueJs apps. Example use [WeatherTab](https://timleland.com/weathertab/)
+Easily use [Skycons](https://github.com/darkskyapp/skycons) in your VueJs apps. Example use [Weather Extension](https://weatherextension.com/) and [WeatherTab](https://timleland.com/weathertab/)
+
+<a href="https://www.digitalocean.com/?refcode=95e54284e826&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge"><img src="https://web-platforms.sfo2.cdn.digitaloceanspaces.com/WWW/Badge%201.svg" alt="DigitalOcean Referral Badge" /></a>
 
 ## Installation   
 ### NPM   
